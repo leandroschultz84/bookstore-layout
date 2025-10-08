@@ -16,9 +16,9 @@ Interface responsiva de uma livraria digital desenvolvida com HTML, CSS e Swiper
 - Layout adaptável para dispositivos móveis
 
 ## Pré-visualização
-![Imagem do dispositivo mobile](assets/mobile_screen.png)
+![Imagem do dispositivo mobile e desktop](assets/mobile_desktop_screen.png)
 
-![Imagem do dispositivo desktop](assets/desktop_screen.png)
+
 
 ## Autor
 Desenvolvido por Leandro Schultz 

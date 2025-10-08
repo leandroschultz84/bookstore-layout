@@ -1,6 +1,6 @@
 ##  Bookstore Layout
 
-Interface responsiva de uma livraria digital desenvolvida com HTML, CSS e Swiper.js. Este projeto simula uma vitrine de livros com carrosséis interativos, categorias, autores em destaque e campo de busca — ideal para estudos de front-end e boas práticas de estruturação de páginas web.
+Interface responsiva de uma livraria digital desenvolvida com HTML, CSS e Swiper.js. Este projeto simula uma vitrine de livros com carrosséis interativos, categorias, autores em destaque e campo de busca.
 
 ## Tecnologias utilizadas
 - HTML5
@@ -16,7 +16,9 @@ Interface responsiva de uma livraria digital desenvolvida com HTML, CSS e Swiper
 - Layout adaptável para dispositivos móveis
 
 ## Pré-visualização
-📷 Em breve: imagens ou link para deploy
+![Imagem do dispositivo mobile](assets/mobile_screen.png)
+
+![Imagem do dispositivo desktop](assets/desktop_screen.png)
 
 ## Autor
 Desenvolvido por Leandro Schultz 
